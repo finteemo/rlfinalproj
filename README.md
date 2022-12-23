@@ -178,8 +178,8 @@
 * 'run.py' : train, test를 실행하기 위한 파일
 * 'utils.py' : ETF A, B, C, D 가져오고 간단한 전처리
 
-### 학습방법
-#### Train
+### 사용방법
+#### 학습
 'python run.py --mode train'
 #### 포트폴리오 가치 저장
 "python run.py --mode test --episode '원하는 숫자' --weights '위에 train을 통해 생성된 weight파일'"
